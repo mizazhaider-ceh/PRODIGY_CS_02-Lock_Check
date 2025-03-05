@@ -1,5 +1,5 @@
 # Lock-Check - Password Strength Analyzer 🔐
-![Lock-Check](screenshots/logo.png)
+![Lock-Check](screenshots/logo1.png)
 **Developed by:** Muhammad Izaz Haider
 
 **Internship Project at:** Prodigy InfoTech
