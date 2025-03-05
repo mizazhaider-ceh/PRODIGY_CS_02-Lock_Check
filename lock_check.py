@@ -47,9 +47,9 @@ print('''\033[32m
 ███████╗╚██████╔╝╚██████╗██║  ██╗    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗
 ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝
 \033[0m
-         \033[35m~~~~~ Developed by Aspiring Penster Mr. Izaz  ~~~~~ \033[0m 
+         \033[35m~~~~~ Developed by Aspiring Pentester Mr. Izaz  ~~~~~ \033[0m 
          \033[93m~~~~~ Follow Here: GitHub.com/mizazhaider-ceh ~~~~~\033[0m
-
+   \033[94m~~~~~ Internship Task/Project Assigned by ProDigy Infotech ~~~~~\033[0m
       ''')
 
 print("            \033[96mWelcome to the  ~Lock-Check\033[0m                    ")
