@@ -48,7 +48,7 @@ print('''\033[32m
 ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝
 \033[0m
          \033[35m~~~~~ Developed by Aspiring Penster Mr. Izaz  ~~~~~ \033[0m 
-         \033[93m~~~~~ Follow Here: GitHub.com/mizazhiader-ceh ~~~~~\033[0m
+         \033[93m~~~~~ Follow Here: GitHub.com/mizazhaider-ceh ~~~~~\033[0m
 
       ''')
 
