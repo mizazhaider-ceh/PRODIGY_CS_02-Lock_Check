@@ -1,4 +1,8 @@
 # Lock-Check - Password Strength Analyzer 🔐
+
+[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ![Lock-Check](screenshots/logo1.png)
 **Developed by:** Muhammad Izaz Haider
 
@@ -30,6 +34,10 @@ Each factor contributes to the overall password strength:
 
 ✔️ Analyzes password strength based on five key factors
 
+✔️ Shows a per-criterion PASS/FAIL checklist so you know exactly what to fix
+
+✔️ Hides your password while you type (getpass) and never prints it back
+
 ✔️ Provides instant feedback with color-coded messages
 
 ✔️ User-friendly command-line interface
@@ -38,17 +46,20 @@ Each factor contributes to the overall password strength:
 
 ✔️ Error handling for invalid inputs
 
+✔️ Unit tests included (`python3 -m unittest discover -s tests`)
+
 ## 📂 Project Structure
 
 ```
 PRODIGY_CS_02-Lock_Check/
 │── lock_check.py            # Main Python script
+│── tests/                   # Unit tests (python3 -m unittest discover -s tests)
 │── README.md                # Project documentation
 │── screenshots/             # Folder containing example outputs
-│   │── logo.png             # Project logo
+│   │── logo1.png            # Project logo
 │   │── strong_pass.png      # Example of a strong password
-│   │── medium_pass.png      # Example of a medium password
-│   │── weak_pass.png        # Example of a weak password
+│   │── medium.png           # Example of a medium password
+│   │── weak.png             # Example of a weak password
 ```
 
 ## 🖥 Screenshots
